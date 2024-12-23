@@ -1,1 +1,1 @@
-This an E-commerce site done by our team for Python Project.
+These are all the code we used to make our project.
